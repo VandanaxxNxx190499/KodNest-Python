@@ -35,3 +35,14 @@ print(values.index(20))
 # [50, 40, 20, 8, 7, 6, 4, 3, 2, 1]
 # 0
 # 2
+
+# Operation Typical - time complexity
+# Access by index	O(1)
+# Update by index	O(1)
+# Traversal	O(n)
+# Search (unsorted)	O(n)
+# Append	O(1) amortised
+# Insert at beginning	O(n)
+# Delete at beginning	O(n)
+# Pop from end	O(1)
+# Sorting	O(n log n)
